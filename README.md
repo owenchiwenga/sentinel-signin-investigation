@@ -33,3 +33,19 @@ This repository contains example investigation queries and documentation. Live e
 
 ## Disclaimer
 This project is for educational purposes. No real security incident or attack is claimed.
+## Screenshots
+
+### 1. Failed Sign-in Query
+![Failed sign-in query](screenshots/01-failed-signin-query.png)
+
+### 2. Repeated Failures by IP
+![Repeated failures by IP](screenshots/02-repeated-failures-by-ip.png)
+
+### 3. Successful Sign-in Investigation
+![Successful sign-in investigation](screenshots/03-successful-signin-investigation.png)
+
+### 4. Investigation Report
+![Investigation report](screenshots/04-investigation-report.png)
+
+### 5. GitHub Project Overview
+![GitHub project overview](screenshots/05-github-project-overview.png)
